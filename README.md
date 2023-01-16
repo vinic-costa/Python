@@ -1,2 +1,2 @@
-# aquivos-teste
-Aulas de Git
+# Python
+Automação e Ciência de dados
